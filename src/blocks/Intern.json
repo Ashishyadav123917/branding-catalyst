@@ -1,0 +1,975 @@
+[
+    {
+      "name": "Afghanistan",
+      "email": "AF"
+    },
+    {
+      "name": "Åland Islands",
+      "email": "AX"
+    },
+    {
+      "name": "Albania",
+      "email": "AL"
+    },
+    {
+      "name": "Algeria",
+      "email": "DZ"
+    },
+    {
+      "name": "American Samoa",
+      "email": "AS"
+    },
+    {
+      "name": "AndorrA",
+      "email": "AD"
+    },
+    {
+      "name": "Angola",
+      "email": "AO"
+    },
+    {
+      "name": "Anguilla",
+      "email": "AI"
+    },
+    {
+      "name": "Antarctica",
+      "email": "AQ"
+    },
+    {
+      "name": "Antigua and Barbuda",
+      "email": "AG"
+    },
+    {
+      "name": "Argentina",
+      "email": "AR"
+    },
+    {
+      "name": "Armenia",
+      "email": "AM"
+    },
+    {
+      "name": "Aruba",
+      "email": "AW"
+    },
+    {
+      "name": "Australia",
+      "email": "AU"
+    },
+    {
+      "name": "Austria",
+      "email": "AT"
+    },
+    {
+      "name": "Azerbaijan",
+      "email": "AZ"
+    },
+    {
+      "name": "Bahamas",
+      "email": "BS"
+    },
+    {
+      "name": "Bahrain",
+      "email": "BH"
+    },
+    {
+      "name": "Bangladesh",
+      "email": "BD"
+    },
+    {
+      "name": "Barbados",
+      "email": "BB"
+    },
+    {
+      "name": "Belarus",
+      "email": "BY"
+    },
+    {
+      "name": "Belgium",
+      "email": "BE"
+    },
+    {
+      "name": "Belize",
+      "email": "BZ"
+    },
+    {
+      "name": "Benin",
+      "email": "BJ"
+    },
+    {
+      "name": "Bermuda",
+      "email": "BM"
+    },
+    {
+      "name": "Bhutan",
+      "email": "BT"
+    },
+    {
+      "name": "Bolivia",
+      "email": "BO"
+    },
+    {
+      "name": "Bosnia and Herzegovina",
+      "email": "BA"
+    },
+    {
+      "name": "Botswana",
+      "email": "BW"
+    },
+    {
+      "name": "Bouvet Island",
+      "email": "BV"
+    },
+    {
+      "name": "Brazil",
+      "email": "BR"
+    },
+    {
+      "name": "British Indian Ocean Territory",
+      "email": "IO"
+    },
+    {
+      "name": "Brunei Darussalam",
+      "email": "BN"
+    },
+    {
+      "name": "Bulgaria",
+      "email": "BG"
+    },
+    {
+      "name": "Burkina Faso",
+      "email": "BF"
+    },
+    {
+      "name": "Burundi",
+      "email": "BI"
+    },
+    {
+      "name": "Cambodia",
+      "email": "KH"
+    },
+    {
+      "name": "Cameroon",
+      "email": "CM"
+    },
+    {
+      "name": "Canada",
+      "email": "CA"
+    },
+    {
+      "name": "Cape Verde",
+      "email": "CV"
+    },
+    {
+      "name": "Cayman Islands",
+      "email": "KY"
+    },
+    {
+      "name": "Central African Republic",
+      "email": "CF"
+    },
+    {
+      "name": "Chad",
+      "email": "TD"
+    },
+    {
+      "name": "Chile",
+      "email": "CL"
+    },
+    {
+      "name": "China",
+      "email": "CN"
+    },
+    {
+      "name": "Christmas Island",
+      "email": "CX"
+    },
+    {
+      "name": "Cocos (Keeling) Islands",
+      "email": "CC"
+    },
+    {
+      "name": "Colombia",
+      "email": "CO"
+    },
+    {
+      "name": "Comoros",
+      "email": "KM"
+    },
+    {
+      "name": "Congo",
+      "email": "CG"
+    },
+    {
+      "name": "Congo, The Democratic Republic of the",
+      "email": "CD"
+    },
+    {
+      "name": "Cook Islands",
+      "email": "CK"
+    },
+    {
+      "name": "Costa Rica",
+      "email": "CR"
+    },
+    {
+      "name": "Cote D\"Ivoire",
+      "email": "CI"
+    },
+    {
+      "name": "Croatia",
+      "email": "HR"
+    },
+    {
+      "name": "Cuba",
+      "email": "CU"
+    },
+    {
+      "name": "Cyprus",
+      "email": "CY"
+    },
+    {
+      "name": "Czech Republic",
+      "email": "CZ"
+    },
+    {
+      "name": "Denmark",
+      "email": "DK"
+    },
+    {
+      "name": "Djibouti",
+      "email": "DJ"
+    },
+    {
+      "name": "Dominica",
+      "email": "DM"
+    },
+    {
+      "name": "Dominican Republic",
+      "email": "DO"
+    },
+    {
+      "name": "Ecuador",
+      "email": "EC"
+    },
+    {
+      "name": "Egypt",
+      "email": "EG"
+    },
+    {
+      "name": "El Salvador",
+      "email": "SV"
+    },
+    {
+      "name": "Equatorial Guinea",
+      "email": "GQ"
+    },
+    {
+      "name": "Eritrea",
+      "email": "ER"
+    },
+    {
+      "name": "Estonia",
+      "email": "EE"
+    },
+    {
+      "name": "Ethiopia",
+      "email": "ET"
+    },
+    {
+      "name": "Falkland Islands (Malvinas)",
+      "email": "FK"
+    },
+    {
+      "name": "Faroe Islands",
+      "email": "FO"
+    },
+    {
+      "name": "Fiji",
+      "email": "FJ"
+    },
+    {
+      "name": "Finland",
+      "email": "FI"
+    },
+    {
+      "name": "France",
+      "email": "FR"
+    },
+    {
+      "name": "French Guiana",
+      "email": "GF"
+    },
+    {
+      "name": "French Polynesia",
+      "email": "PF"
+    },
+    {
+      "name": "French Southern Territories",
+      "email": "TF"
+    },
+    {
+      "name": "Gabon",
+      "email": "GA"
+    },
+    {
+      "name": "Gambia",
+      "email": "GM"
+    },
+    {
+      "name": "Georgia",
+      "email": "GE"
+    },
+    {
+      "name": "Germany",
+      "email": "DE"
+    },
+    {
+      "name": "Ghana",
+      "email": "GH"
+    },
+    {
+      "name": "Gibraltar",
+      "email": "GI"
+    },
+    {
+      "name": "Greece",
+      "email": "GR"
+    },
+    {
+      "name": "Greenland",
+      "email": "GL"
+    },
+    {
+      "name": "Grenada",
+      "email": "GD"
+    },
+    {
+      "name": "Guadeloupe",
+      "email": "GP"
+    },
+    {
+      "name": "Guam",
+      "email": "GU"
+    },
+    {
+      "name": "Guatemala",
+      "email": "GT"
+    },
+    {
+      "name": "Guernsey",
+      "email": "GG"
+    },
+    {
+      "name": "Guinea",
+      "email": "GN"
+    },
+    {
+      "name": "Guinea-Bissau",
+      "email": "GW"
+    },
+    {
+      "name": "Guyana",
+      "email": "GY"
+    },
+    {
+      "name": "Haiti",
+      "email": "HT"
+    },
+    {
+      "name": "Heard Island and Mcdonald Islands",
+      "email": "HM"
+    },
+    {
+      "name": "Holy See (Vatican City State)",
+      "email": "VA"
+    },
+    {
+      "name": "Honduras",
+      "email": "HN"
+    },
+    {
+      "name": "Hong Kong",
+      "email": "HK"
+    },
+    {
+      "name": "Hungary",
+      "email": "HU"
+    },
+    {
+      "name": "Iceland",
+      "email": "IS"
+    },
+    {
+      "name": "India",
+      "email": "IN"
+    },
+    {
+      "name": "Indonesia",
+      "email": "ID"
+    },
+    {
+      "name": "Iran, Islamic Republic Of",
+      "email": "IR"
+    },
+    {
+      "name": "Iraq",
+      "email": "IQ"
+    },
+    {
+      "name": "Ireland",
+      "email": "IE"
+    },
+    {
+      "name": "Isle of Man",
+      "email": "IM"
+    },
+    {
+      "name": "Israel",
+      "email": "IL"
+    },
+    {
+      "name": "Italy",
+      "email": "IT"
+    },
+    {
+      "name": "Jamaica",
+      "email": "JM"
+    },
+    {
+      "name": "Japan",
+      "email": "JP"
+    },
+    {
+      "name": "Jersey",
+      "email": "JE"
+    },
+    {
+      "name": "Jordan",
+      "email": "JO"
+    },
+    {
+      "name": "Kazakhstan",
+      "email": "KZ"
+    },
+    {
+      "name": "Kenya",
+      "email": "KE"
+    },
+    {
+      "name": "Kiribati",
+      "email": "KI"
+    },
+    {
+      "name": "Korea, Democratic People\"S Republic of",
+      "email": "KP"
+    },
+    {
+      "name": "Korea, Republic of",
+      "email": "KR"
+    },
+    {
+      "name": "Kuwait",
+      "email": "KW"
+    },
+    {
+      "name": "Kyrgyzstan",
+      "email": "KG"
+    },
+    {
+      "name": "Lao People\"S Democratic Republic",
+      "email": "LA"
+    },
+    {
+      "name": "Latvia",
+      "email": "LV"
+    },
+    {
+      "name": "Lebanon",
+      "email": "LB"
+    },
+    {
+      "name": "Lesotho",
+      "email": "LS"
+    },
+    {
+      "name": "Liberia",
+      "email": "LR"
+    },
+    {
+      "name": "Libyan Arab Jamahiriya",
+      "email": "LY"
+    },
+    {
+      "name": "Liechtenstein",
+      "email": "LI"
+    },
+    {
+      "name": "Lithuania",
+      "email": "LT"
+    },
+    {
+      "name": "Luxembourg",
+      "email": "LU"
+    },
+    {
+      "name": "Macao",
+      "email": "MO"
+    },
+    {
+      "name": "Macedonia, The Former Yugoslav Republic of",
+      "email": "MK"
+    },
+    {
+      "name": "Madagascar",
+      "email": "MG"
+    },
+    {
+      "name": "Malawi",
+      "email": "MW"
+    },
+    {
+      "name": "Malaysia",
+      "email": "MY"
+    },
+    {
+      "name": "Maldives",
+      "email": "MV"
+    },
+    {
+      "name": "Mali",
+      "email": "ML"
+    },
+    {
+      "name": "Malta",
+      "email": "MT"
+    },
+    {
+      "name": "Marshall Islands",
+      "email": "MH"
+    },
+    {
+      "name": "Martinique",
+      "email": "MQ"
+    },
+    {
+      "name": "Mauritania",
+      "email": "MR"
+    },
+    {
+      "name": "Mauritius",
+      "email": "MU"
+    },
+    {
+      "name": "Mayotte",
+      "email": "YT"
+    },
+    {
+      "name": "Mexico",
+      "email": "MX"
+    },
+    {
+      "name": "Micronesia, Federated States of",
+      "email": "FM"
+    },
+    {
+      "name": "Moldova, Republic of",
+      "email": "MD"
+    },
+    {
+      "name": "Monaco",
+      "email": "MC"
+    },
+    {
+      "name": "Mongolia",
+      "email": "MN"
+    },
+    {
+      "name": "Montserrat",
+      "email": "MS"
+    },
+    {
+      "name": "Morocco",
+      "email": "MA"
+    },
+    {
+      "name": "Mozambique",
+      "email": "MZ"
+    },
+    {
+      "name": "Myanmar",
+      "email": "MM"
+    },
+    {
+      "name": "Namibia",
+      "email": "NA"
+    },
+    {
+      "name": "Nauru",
+      "email": "NR"
+    },
+    {
+      "name": "Nepal",
+      "email": "NP"
+    },
+    {
+      "name": "Netherlands",
+      "email": "NL"
+    },
+    {
+      "name": "Netherlands Antilles",
+      "email": "AN"
+    },
+    {
+      "name": "New Caledonia",
+      "email": "NC"
+    },
+    {
+      "name": "New Zealand",
+      "email": "NZ"
+    },
+    {
+      "name": "Nicaragua",
+      "email": "NI"
+    },
+    {
+      "name": "Niger",
+      "email": "NE"
+    },
+    {
+      "name": "Nigeria",
+      "email": "NG"
+    },
+    {
+      "name": "Niue",
+      "email": "NU"
+    },
+    {
+      "name": "Norfolk Island",
+      "email": "NF"
+    },
+    {
+      "name": "Northern Mariana Islands",
+      "email": "MP"
+    },
+    {
+      "name": "Norway",
+      "email": "NO"
+    },
+    {
+      "name": "Oman",
+      "email": "OM"
+    },
+    {
+      "name": "Pakistan",
+      "email": "PK"
+    },
+    {
+      "name": "Palau",
+      "email": "PW"
+    },
+    {
+      "name": "Palestinian Territory, Occupied",
+      "email": "PS"
+    },
+    {
+      "name": "Panama",
+      "email": "PA"
+    },
+    {
+      "name": "Papua New Guinea",
+      "email": "PG"
+    },
+    {
+      "name": "Paraguay",
+      "email": "PY"
+    },
+    {
+      "name": "Peru",
+      "email": "PE"
+    },
+    {
+      "name": "Philippines",
+      "email": "PH"
+    },
+    {
+      "name": "Pitcairn",
+      "email": "PN"
+    },
+    {
+      "name": "Poland",
+      "email": "PL"
+    },
+    {
+      "name": "Portugal",
+      "email": "PT"
+    },
+    {
+      "name": "Puerto Rico",
+      "email": "PR"
+    },
+    {
+      "name": "Qatar",
+      "email": "QA"
+    },
+    {
+      "name": "Reunion",
+      "email": "RE"
+    },
+    {
+      "name": "Romania",
+      "email": "RO"
+    },
+    {
+      "name": "Russian Federation",
+      "email": "RU"
+    },
+    {
+      "name": "RWANDA",
+      "email": "RW"
+    },
+    {
+      "name": "Saint Helena",
+      "email": "SH"
+    },
+    {
+      "name": "Saint Kitts and Nevis",
+      "email": "KN"
+    },
+    {
+      "name": "Saint Lucia",
+      "email": "LC"
+    },
+    {
+      "name": "Saint Pierre and Miquelon",
+      "email": "PM"
+    },
+    {
+      "name": "Saint Vincent and the Grenadines",
+      "email": "VC"
+    },
+    {
+      "name": "Samoa",
+      "email": "WS"
+    },
+    {
+      "name": "San Marino",
+      "email": "SM"
+    },
+    {
+      "name": "Sao Tome and Principe",
+      "email": "ST"
+    },
+    {
+      "name": "Saudi Arabia",
+      "email": "SA"
+    },
+    {
+      "name": "Senegal",
+      "email": "SN"
+    },
+    {
+      "name": "Serbia and Montenegro",
+      "email": "CS"
+    },
+    {
+      "name": "Seychelles",
+      "email": "SC"
+    },
+    {
+      "name": "Sierra Leone",
+      "email": "SL"
+    },
+    {
+      "name": "Singapore",
+      "email": "SG"
+    },
+    {
+      "name": "Slovakia",
+      "email": "SK"
+    },
+    {
+      "name": "Slovenia",
+      "email": "SI"
+    },
+    {
+      "name": "Solomon Islands",
+      "email": "SB"
+    },
+    {
+      "name": "Somalia",
+      "email": "SO"
+    },
+    {
+      "name": "South Africa",
+      "email": "ZA"
+    },
+    {
+      "name": "South Georgia and the South Sandwich Islands",
+      "email": "GS"
+    },
+    {
+      "name": "Spain",
+      "email": "ES"
+    },
+    {
+      "name": "Sri Lanka",
+      "email": "LK"
+    },
+    {
+      "name": "Sudan",
+      "email": "SD"
+    },
+    {
+      "name": "Suriname",
+      "email": "SR"
+    },
+    {
+      "name": "Svalbard and Jan Mayen",
+      "email": "SJ"
+    },
+    {
+      "name": "Swaziland",
+      "email": "SZ"
+    },
+    {
+      "name": "Sweden",
+      "email": "SE"
+    },
+    {
+      "name": "Switzerland",
+      "email": "CH"
+    },
+    {
+      "name": "Syrian Arab Republic",
+      "email": "SY"
+    },
+    {
+      "name": "Taiwan, Province of China",
+      "email": "TW"
+    },
+    {
+      "name": "Tajikistan",
+      "email": "TJ"
+    },
+    {
+      "name": "Tanzania, United Republic of",
+      "email": "TZ"
+    },
+    {
+      "name": "Thailand",
+      "email": "TH"
+    },
+    {
+      "name": "Timor-Leste",
+      "email": "TL"
+    },
+    {
+      "name": "Togo",
+      "email": "TG"
+    },
+    {
+      "name": "Tokelau",
+      "email": "TK"
+    },
+    {
+      "name": "Tonga",
+      "email": "TO"
+    },
+    {
+      "name": "Trinidad and Tobago",
+      "email": "TT"
+    },
+    {
+      "name": "Tunisia",
+      "email": "TN"
+    },
+    {
+      "name": "Turkey",
+      "email": "TR"
+    },
+    {
+      "name": "Turkmenistan",
+      "email": "TM"
+    },
+    {
+      "name": "Turks and Caicos Islands",
+      "email": "TC"
+    },
+    {
+      "name": "Tuvalu",
+      "email": "TV"
+    },
+    {
+      "name": "Uganda",
+      "email": "UG"
+    },
+    {
+      "name": "Ukraine",
+      "email": "UA"
+    },
+    {
+      "name": "United Arab Emirates",
+      "email": "AE"
+    },
+    {
+      "name": "United Kingdom",
+      "email": "GB"
+    },
+    {
+      "name": "United States",
+      "email": "US"
+    },
+    {
+      "name": "United States Minor Outlying Islands",
+      "email": "UM"
+    },
+    {
+      "name": "Uruguay",
+      "email": "UY"
+    },
+    {
+      "name": "Uzbekistan",
+      "email": "UZ"
+    },
+    {
+      "name": "Vanuatu",
+      "email": "VU"
+    },
+    {
+      "name": "Venezuela",
+      "email": "VE"
+    },
+    {
+      "name": "Viet Nam",
+      "email": "VN"
+    },
+    {
+      "name": "Virgin Islands, British",
+      "email": "VG"
+    },
+    {
+      "name": "Virgin Islands, U.S.",
+      "email": "VI"
+    },
+    {
+      "name": "Wallis and Futuna",
+      "email": "WF"
+    },
+    {
+      "name": "Western Sahara",
+      "email": "EH"
+    },
+    {
+      "name": "Yemen",
+      "email": "YE"
+    },
+    {
+      "name": "Zambia",
+      "email": "ZM"
+    },
+    {
+      "name": "Zimbabwe",
+      "email": "ZW"
+    }
+  ]
+  
